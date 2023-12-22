@@ -1,4 +1,5 @@
 #!/bin/bash
+# Leo script for simple Tictactoe game in Aleo.
 # First check that Leo is installed.
 if ! command -v leo &> /dev/null
 then
